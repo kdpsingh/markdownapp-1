@@ -1,5 +1,5 @@
 ## This app requires OpenCPU 1.0.1 or higher !!!! 
-##
+## Test
 
 #' @export
 renderer <- function(text, ...) {
