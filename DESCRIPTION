@@ -7,4 +7,4 @@ Author: Jeroen Ooms
 Maintainer: Jeroen Ooms <jeroen@berkeley.edu>
 Description: OpenCPU App for markdown package
 License: Apache2
-Depends: knitr, textutils
+Depends: knitr, textutils, rmarkdown
